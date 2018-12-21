@@ -1,5 +1,7 @@
 A simple spinner with design based on the Equinor logo
 
+![alt text](https://github.com/Statoil/css-equinor-spinner/blob/master/equinor-spinner/images/original/equinor-spinner-250px.png)
+
 example implementation (250px spinner):
 
 .animation {
@@ -31,3 +33,4 @@ example implementation (250px spinner):
 	100% { background-position: 0; }
 	
 }
+
